@@ -17,9 +17,25 @@ I’m excited to share the completion of a project during my internship at Cogno
     Naive Bayes Classifier achieved the highest accuracy.
     Gained valuable insights into text classification and model evaluation.
 
+🔍 Task 2: Spam Email Detection 🔍
+In this task, I explored various machine learning algorithms to detect spam emails effectively. I implemented:
+
+🔹 Random Forest
+🔹 K-Nearest Neighbors (KNN)
+🔹 Logistic Regression
+
+Each model provided unique insights and performance metrics, contributing to a comprehensive understanding of email spam detection. This experience enhanced my skills in data preprocessing, feature engineering, and model evaluation.
+
 🚀 Impact: Enhanced my machine learning skills and understanding of different algorithms.
 
+🔍 Task 3: Movie Sendiment Analysis 🔍
+For this task, I focused on analyzing movie reviews to determine sentiment using several powerful machine learning models:
 
+🔹 Naive Bayes
+🔹 XGBClassifier
+🔹 Decision Tree
+
+This project allowed me to dive deep into text preprocessing, feature extraction, and model comparison, enhancing my ability to tackle sentiment analysis challenges.
 
 Thank you, Cognorise Infotech, for the support!
 
